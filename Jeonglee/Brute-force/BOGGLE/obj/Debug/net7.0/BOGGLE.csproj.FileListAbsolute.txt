@@ -1,0 +1,15 @@
+D:\Algorithm\2023\BOGGLE\bin\Debug\net7.0\BOGGLE.exe
+D:\Algorithm\2023\BOGGLE\bin\Debug\net7.0\BOGGLE.deps.json
+D:\Algorithm\2023\BOGGLE\bin\Debug\net7.0\BOGGLE.runtimeconfig.json
+D:\Algorithm\2023\BOGGLE\bin\Debug\net7.0\BOGGLE.dll
+D:\Algorithm\2023\BOGGLE\bin\Debug\net7.0\BOGGLE.pdb
+D:\Algorithm\2023\BOGGLE\obj\Debug\net7.0\BOGGLE.csproj.AssemblyReference.cache
+D:\Algorithm\2023\BOGGLE\obj\Debug\net7.0\BOGGLE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithm\2023\BOGGLE\obj\Debug\net7.0\BOGGLE.AssemblyInfoInputs.cache
+D:\Algorithm\2023\BOGGLE\obj\Debug\net7.0\BOGGLE.AssemblyInfo.cs
+D:\Algorithm\2023\BOGGLE\obj\Debug\net7.0\BOGGLE.csproj.CoreCompileInputs.cache
+D:\Algorithm\2023\BOGGLE\obj\Debug\net7.0\BOGGLE.dll
+D:\Algorithm\2023\BOGGLE\obj\Debug\net7.0\refint\BOGGLE.dll
+D:\Algorithm\2023\BOGGLE\obj\Debug\net7.0\BOGGLE.pdb
+D:\Algorithm\2023\BOGGLE\obj\Debug\net7.0\BOGGLE.genruntimeconfig.cache
+D:\Algorithm\2023\BOGGLE\obj\Debug\net7.0\ref\BOGGLE.dll
