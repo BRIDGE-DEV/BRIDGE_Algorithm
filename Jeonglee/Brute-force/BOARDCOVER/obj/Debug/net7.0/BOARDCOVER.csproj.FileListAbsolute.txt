@@ -1,0 +1,15 @@
+D:\Algorithm\2023\BOARDCOVER\bin\Debug\net7.0\BOARDCOVER.exe
+D:\Algorithm\2023\BOARDCOVER\bin\Debug\net7.0\BOARDCOVER.deps.json
+D:\Algorithm\2023\BOARDCOVER\bin\Debug\net7.0\BOARDCOVER.runtimeconfig.json
+D:\Algorithm\2023\BOARDCOVER\bin\Debug\net7.0\BOARDCOVER.dll
+D:\Algorithm\2023\BOARDCOVER\bin\Debug\net7.0\BOARDCOVER.pdb
+D:\Algorithm\2023\BOARDCOVER\obj\Debug\net7.0\BOARDCOVER.csproj.AssemblyReference.cache
+D:\Algorithm\2023\BOARDCOVER\obj\Debug\net7.0\BOARDCOVER.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithm\2023\BOARDCOVER\obj\Debug\net7.0\BOARDCOVER.AssemblyInfoInputs.cache
+D:\Algorithm\2023\BOARDCOVER\obj\Debug\net7.0\BOARDCOVER.AssemblyInfo.cs
+D:\Algorithm\2023\BOARDCOVER\obj\Debug\net7.0\BOARDCOVER.csproj.CoreCompileInputs.cache
+D:\Algorithm\2023\BOARDCOVER\obj\Debug\net7.0\BOARDCOVER.dll
+D:\Algorithm\2023\BOARDCOVER\obj\Debug\net7.0\refint\BOARDCOVER.dll
+D:\Algorithm\2023\BOARDCOVER\obj\Debug\net7.0\BOARDCOVER.pdb
+D:\Algorithm\2023\BOARDCOVER\obj\Debug\net7.0\BOARDCOVER.genruntimeconfig.cache
+D:\Algorithm\2023\BOARDCOVER\obj\Debug\net7.0\ref\BOARDCOVER.dll
