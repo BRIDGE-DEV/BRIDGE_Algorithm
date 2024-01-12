@@ -72,3 +72,25 @@ private int Solve(int switchNumber)
 ```
 
 4번을 누르면 다시 돌아간다는 아이디어를 통해 ret을 반환하는 것이 코드에 잘 보여진다.
+
+기저사례는 모든 시계가 12여야 한다는 명확한 조건이 있기 때문에 다음과 같이 정리된다.
+
+```cs
+if (switchNumber == SwitchNumber)
+{
+    return AreAligned() ? 0 : Inf;
+}
+
+private bool AreAligned()
+{
+    for (int i = 0; i < ClockNumber; i++)
+    {
+        if (_clocks[i] != 12)
+        {
+            return false;
+        }
+    }
+
+    return true;
+}
+```
