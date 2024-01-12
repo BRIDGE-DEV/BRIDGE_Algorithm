@@ -1,0 +1,15 @@
+D:\Algorithm\2023\CLOCKSYNC\bin\Debug\net7.0\CLOCKSYNC.exe
+D:\Algorithm\2023\CLOCKSYNC\bin\Debug\net7.0\CLOCKSYNC.deps.json
+D:\Algorithm\2023\CLOCKSYNC\bin\Debug\net7.0\CLOCKSYNC.runtimeconfig.json
+D:\Algorithm\2023\CLOCKSYNC\bin\Debug\net7.0\CLOCKSYNC.dll
+D:\Algorithm\2023\CLOCKSYNC\bin\Debug\net7.0\CLOCKSYNC.pdb
+D:\Algorithm\2023\CLOCKSYNC\obj\Debug\net7.0\CLOCKSYNC.csproj.AssemblyReference.cache
+D:\Algorithm\2023\CLOCKSYNC\obj\Debug\net7.0\CLOCKSYNC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithm\2023\CLOCKSYNC\obj\Debug\net7.0\CLOCKSYNC.AssemblyInfoInputs.cache
+D:\Algorithm\2023\CLOCKSYNC\obj\Debug\net7.0\CLOCKSYNC.AssemblyInfo.cs
+D:\Algorithm\2023\CLOCKSYNC\obj\Debug\net7.0\CLOCKSYNC.csproj.CoreCompileInputs.cache
+D:\Algorithm\2023\CLOCKSYNC\obj\Debug\net7.0\CLOCKSYNC.dll
+D:\Algorithm\2023\CLOCKSYNC\obj\Debug\net7.0\refint\CLOCKSYNC.dll
+D:\Algorithm\2023\CLOCKSYNC\obj\Debug\net7.0\CLOCKSYNC.pdb
+D:\Algorithm\2023\CLOCKSYNC\obj\Debug\net7.0\CLOCKSYNC.genruntimeconfig.cache
+D:\Algorithm\2023\CLOCKSYNC\obj\Debug\net7.0\ref\CLOCKSYNC.dll
